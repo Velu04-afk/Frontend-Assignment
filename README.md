@@ -1,3 +1,6 @@
+
+Chakra.UI is used here as a third party CSS Library
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
